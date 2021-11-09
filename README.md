@@ -35,3 +35,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narayandasnitol&show_icons=true&locale=en" alt="narayandasnitol" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narayandasnitol&" alt="narayandasnitol" /></p>
+
+[![Readme Card](https://github.com/narayandasnitol/Aust-Class-Manager)]
+
