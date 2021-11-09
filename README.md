@@ -45,6 +45,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narayandasnitol&theme=react&layout=compact" alt="narayandasnitol" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmad-narayandasnitol&show_icons=true&locale=en&layout=compact&theme=react" alt="narayandasnitol" /></p>
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=narayandasnitol&theme=react-dark&hide_border=true&area=true)
 
