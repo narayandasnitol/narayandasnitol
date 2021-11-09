@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Yo Tech Ltd](https://yotech.ltd/)
 
-- 🔭 My current project is [Yo Foodie](https://www.yofoodie.co.uk/)
+- ⚡ My current project is [Yo Foodie](https://www.yofoodie.co.uk/)
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
