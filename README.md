@@ -9,7 +9,6 @@
 
 - 🔭 My current project is [Yo Foodie](https://www.yofoodie.co.uk/)
 
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/7J4P7cUur2DlErijp3/giphy.gif" />
 
 - 🌱 I’m currently learning **MERN**
 
