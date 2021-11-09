@@ -7,9 +7,10 @@
 
 - 🔭 I’m currently working on [Yo Tech Ltd](https://yotech.ltd/)
 
+- 🔭 My current project is [Yo Foodie](https://www.yofoodie.co.uk/)
+
 - 🌱 I’m currently learning **MERN**
 
-- Yo Foodie [Yo Foodie](https://www.yofoodie.co.uk/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/narayandasnitol?tab=repositories](https://github.com/narayandasnitol?tab=repositories)
 
