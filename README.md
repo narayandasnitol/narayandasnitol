@@ -48,25 +48,17 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayandasnitol&show_icons=true&locale=en&layout=compact&theme=react " alt="narayandasnitol" /></p> -->
 
 ### 🔥 Streak Stats
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narayandasnitol&theme=react&layout=compact" alt="narayandasnitol" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=narayandasnitol&theme=react" alt="narayandasnitol"  /></p>
 
 <hr>
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayandasnitol&show_icons=true&locale=en&layout=compact&theme=react " alt="narayandasnitol" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=narayandasnitol&show_icons=true&locale=en&theme=react&layout=compact " alt="narayandasnitol" /></p>
-
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayandasnitol&show_icons=true&locale=en&layout=compact&theme=react" alt="narayandasnitol" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=narayandasnitol&show_icons=true&locale=en&theme=react" alt="narayandasnitol" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=narayandasnitol&theme=react-dark&hide_border=true&area=true)
-
-
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
