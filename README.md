@@ -36,5 +36,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narayandasnitol&" alt="narayandasnitol" /></p>
 
-[![Readme Card](https://github.com/narayandasnitol/Aust-Class-Manager)]
+[![Readme Card](https://github.com/narayandasnitol/Aust-Class-Manager)](https://github.com/anuraghazra/github-readme-stats)
+
 
