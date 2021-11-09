@@ -40,12 +40,3 @@
 
 [![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=narayandasnitol&theme=tokyonight)](https://git.io/praveenscience)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=narayandasnitol&repo=Aust-Class-Manager)](https://github.com/narayandasnitol/Aust-Class-Manager)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=narayandasnitol&repo=Shoot-The-Duck)](https://github.com/narayandasnitol/Shoot-The-Duck)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=narayandasnitol&repo=Bus-Ticket-Reservation-Manager)](https://github.com/narayandasnitol/Bus-Ticket-Reservation-Manager)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=narayandasnitol&repo=Bus-Ticket-Reservation-Manager)](https://github.com/narayandasnitol/Bus-Ticket-Reservation-Manager)
-
-
