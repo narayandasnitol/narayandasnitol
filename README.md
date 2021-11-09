@@ -5,6 +5,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narayandasnitol" alt="narayandasnitol" /></a> </p>
+[![Github](https://img.shields.io/github/followers/narayandasnitol?label=Follow&style=social)](https://github.com/narayandasnitol)
 
 - 🔭 I’m currently working on [Yo Tech Ltd](https://yotech.ltd/)
 
