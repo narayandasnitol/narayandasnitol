@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on [Yo Tech Ltd](https://yotech.ltd/)
 
 - 🔭 My current project is [Yo Foodie](https://www.yofoodie.co.uk/)
+- <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 
 - 🌱 I’m currently learning **MERN**
 
