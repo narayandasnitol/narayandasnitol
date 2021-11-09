@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Narayan Das Nitol</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer from Bangladesh</h3>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70909&size=22&width=550&lines=I'm+a+SQA+Engineer!;+Though+I'm+a+SQA+engineer+but+I+love+coding!)](https://git.io/typing-svg)
+
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=narayandasnitol.narayandasnitol)
 [![Github](https://img.shields.io/github/followers/narayandasnitol?label=Follow&style=social)](https://github.com/narayandasnitol)
 
