@@ -45,7 +45,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=narayandasnitol&" alt="narayandasnitol" /></p>
 
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=narayandasnitol&theme=react-dark&hide_border=true&area=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=narayandasnitol&theme=react-dark&hide_border=true&area=true)
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
